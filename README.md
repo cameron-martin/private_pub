@@ -1,6 +1,6 @@
 # Private Pub
 
-Warning: This gem is not stable/production ready (yet).
+**Warning: This gem is no way near ready, and development on it has ceased while I do university work. After university (summer 2015) I will probably continue with it, as there seems to be a bit of interest in it (three stars woot!)**
 
 Private Pub is a Ruby gem for use with Rails to publish and subscribe to messages through [Faye](http://faye.jcoglan.com/). It allows you to easily provide real-time updates through an open socket without tying up a Rails process. All channels are private so users can only listen to events you subscribe them to.
 
